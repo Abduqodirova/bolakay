@@ -1,0 +1,75 @@
+.well{
+    height: 50px;
+    background: grey;
+    border: 1px solid black;
+}
+
+.fa{
+    color: red;
+    background: green;
+}
+.fa.fa-apple{
+    color: black;
+    font-size: 20px;
+}
+header .card-body button{
+    background: orange;
+}
+/* main .img1{
+    position: relative;
+    width: 1224px;
+    height: 961px;
+    margin-top: -4px;
+}
+main .img2{
+    position: absolute;
+    margin-left: -350px;
+    background: #222;
+   
+}
+main .para{
+    position: absolute;
+    color: white;
+    width: 396px;
+    height: 822px;
+    margin: 62px;
+    margin-left: -254px;
+   text-align: center;
+    background-color: #222;
+    border-radius: 10px;
+}
+main .rasm{
+    position: absolute;
+    margin-left: -68px;
+    margin-top: 257px;
+    width: 287px;
+    height: 427px;
+    background: #222;
+} */
+section{
+    background: #222;
+    
+}
+
+
+ #muammo{
+    background-image: url('../img/Ellips.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#muammo img{
+    box-shadow:-20px 20px, 20px -20px, -20px -20px, 20px 20px ;
+   
+}
+#muammo p{
+    box-shadow: -20px 28px #222, 20px -28px #222, -20px -28px #222, 20px 28px #222;
+  background: #222;
+}
+
+#muammo h1{
+color: white;
+font-size: 48px;
+line-height: 54px;
+  
+}
